@@ -1,5 +1,0 @@
-This is going to be our login functionality
-
-Further work on login functionality
-
-New login functionality
